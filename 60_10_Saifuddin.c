@@ -1,4 +1,13 @@
 //Printing Unique Elements in Array
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 10
+SE-IT
+2023-24
+*/
+
 #include <stdio.h>
 
 int isUnique(int arr[], int size, int element) {

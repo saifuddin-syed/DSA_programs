@@ -1,3 +1,13 @@
+/*Queue*/
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 12
+SE-IT
+2023-24
+*/
+
 #include<stdio.h>
 #define size 5
 int queue[size];

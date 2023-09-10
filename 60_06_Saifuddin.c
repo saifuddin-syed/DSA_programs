@@ -1,4 +1,13 @@
 //Stack Operations Program
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 06
+SE-IT
+2023-24
+*/
+
 #include <stdio.h>
 
 void push(int n); //inserts element

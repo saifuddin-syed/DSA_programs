@@ -1,3 +1,14 @@
+/*Stack*/
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 11
+SE-IT
+2023-24
+*/
+
+
 #include<stdio.h>
 int stack[5];
 int top=-1;

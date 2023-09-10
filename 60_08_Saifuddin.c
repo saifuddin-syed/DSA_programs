@@ -1,4 +1,13 @@
 //Comparing Arrays
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 08
+SE-IT
+2023-24
+*/
+
 #include <stdio.h>
 
 int areArraysIdentical(int arr1[], int arr2[], int size) {

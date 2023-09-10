@@ -1,4 +1,13 @@
 //Counting Duplicates in Array
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 09
+SE-IT
+2023-24
+*/
+
 #include <stdio.h>
 
 int countDuplicateElements(int arr[], int size) {

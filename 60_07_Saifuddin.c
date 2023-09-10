@@ -1,4 +1,13 @@
 //Time Incrementing
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 07
+SE-IT
+2023-24
+*/
+
 #include <stdio.h>
 
 struct time_struct {

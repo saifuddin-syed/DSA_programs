@@ -1,4 +1,13 @@
 //To check if number is Fibonacci
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 01
+SE-IT
+2023-24
+*/
+
 #include <stdio.h>
 
 // Function to check if a number is a perfect square

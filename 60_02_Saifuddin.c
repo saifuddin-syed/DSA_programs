@@ -1,4 +1,14 @@
 //Pascal Triangle
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 02
+SE-IT
+2023-24
+*/
+
+
 #include <stdio.h>  
 // Function to calculate and display Pascal's Triangle  
 void displayPascalsTriangle(int n) {  

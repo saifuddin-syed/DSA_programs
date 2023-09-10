@@ -1,4 +1,13 @@
 //To find largest element in array
+
+/*
+Name = Saifuddin Syed
+Roll No = 60
+pid = 05
+SE-IT
+2023-24
+*/
+
 #include<stdio.h>
 void main(){
     int a[10],i,n,t;
