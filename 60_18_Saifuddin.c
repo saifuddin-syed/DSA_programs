@@ -33,7 +33,7 @@ int main()
     e = exp;
     while(*e != '\0')
     {
-	ascii = *e;
+	    ascii = *e;
         if(ascii>=48 && ascii<=57)
         {
             num = *e - 48;
