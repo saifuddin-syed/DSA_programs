@@ -27,9 +27,6 @@ void freenode(struct node* p){
     free(p);
 }
 
-void freenode(struct node* p){
-    free(p);
-}
 
 struct node *list = NULL;
 
@@ -47,7 +44,7 @@ void insertAtP(int p, int x)
     if(list==NULL||p==1)
     {
         //if empty or insert at beg
-        insertBeg(x);
+        insertbeg(x);
         return;
     }
     struct node *nn, *temp;
@@ -70,7 +67,7 @@ void insertEnd(int x)
     if(list==NULL)
     {
         //if empty
-        insertBeg(x);
+        insertbeg(x);
         return;
     }
     struct node *nn, *temp;
@@ -195,7 +192,7 @@ void main()
             case 1: 
                 printf("enter the number to be added in LL: ");
                 scanf("%d", &x);
-                insertBeg(x);
+                insertbeg(x);
                 break;
             case 2: 
                 printf("enter the number to be added in LL: ");
